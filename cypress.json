@@ -1,0 +1,16 @@
+{
+
+
+    "watchForFileChanges": false,
+    "veiwportWidth": 1000,
+    "viewportHeight": 600,
+    "waitForAnimations": true,
+    "animationDistanceTreshold": 20,
+    "defaultCommandTimout": 5000,
+    "exacTimout": 60000,
+    "pageLoadTimout": 60000,
+    "requestTimout": 15000,
+    "responseTimout": 15000,
+    "video": false,
+    "failOnStatusCode": false
+}
